@@ -8,7 +8,7 @@ Objective: To build a model that predicts the insurance risk rating ('symboling'
 Data Source: The dataset comprises automotive specifications and their associated risk ratings, focusing on key attributes that influence insurance risk.
 
 ## Technical Details
-- Data Cleaning and Imputation: Employed regression modeling and other techniques to impute missing values and prepare the data for analysis.
+- Data Cleaning and Imputation: Employed regression modelling and other techniques to impute missing values and prepare the data for analysis.
 - Feature Selection and Multicollinearity Analysis: Utilized Variance Inflation Factor (VIF) and Random Forest algorithm for feature selection, and removed highly collinear variables to assess feature importance.
 - Understanding Variable Distribution: Analyzed the distribution of variables through various graphical methods to gain insights into their characteristics and relationships.
 - Model Selection: Linear Discriminant Analysis (LDA) was used as the primary model due to the categorical nature of the target variable. 
@@ -17,4 +17,7 @@ Data Source: The dataset comprises automotive specifications and their associate
 ## Results and Discussion
 - Model Performance: The model achieved an accuracy of 70% demonstrating strong capability in predicting vehicle risk ratings with high specificity and balanced accuracy.
 - Clustering Insights: Provided valuable insights into different vehicle groupings, which can be used for targeted insurance product development.
+
+## Acknowledgments
+- Acknowledgments: This project was a part of a course at McGill University.
 
