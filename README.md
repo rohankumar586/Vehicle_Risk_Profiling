@@ -5,7 +5,7 @@ This project aim to apply data science in the insurance domain, offering tangibl
 
 ## Project Description
 Objective: To build a model that predicts the insurance risk rating ('symboling') of vehicles, ranging from high risk (+3) to low risk (-3).
-Data Source: [Kaggle](https://www.kaggle.com/datasets/toramky/automobile-dataset?resource=download)
+Data Source: The dataset is available on [Kaggle](https://www.kaggle.com/datasets/toramky/automobile-dataset?resource=download)
 
 ## Technical Details
 - Data Cleaning and Imputation: Employed regression modelling and other techniques to impute missing values and prepare the data for analysis.
