@@ -19,5 +19,5 @@ Data Source: The dataset is available on [Kaggle](https://www.kaggle.com/dataset
 - Clustering Insights: Provided valuable insights into different vehicle groupings, which can be used for targeted insurance product development.
 
 ## Acknowledgments
-- Acknowledgments: This project was a part of a course at McGill University.
+- This project was a part of a course at McGill University. Special thanks to the course instructor for their support and guidance.
 
